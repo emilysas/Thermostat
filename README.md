@@ -4,7 +4,7 @@ This was second of the Week 5 projects at Makers Academy. The task was to create
 
 ##Pair Partner
 
-[Huy Le](github.com/tekhuy)
+[Huy Le](https://github.com/tekhuy)
 
 ![screenshot](./ScreenShot.png)
 
